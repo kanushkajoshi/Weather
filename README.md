@@ -1,27 +1,22 @@
-# 🧮 Python GUI Calculator
+# 🌦️ Weather App
 
 ## 🚀 Overview
-This is a **Graphical User Interface (GUI) Calculator** built using **Python's Tkinter** library. It performs basic arithmetic operations and displays results with a stylish interface. The calculator also supports **fraction conversion** for floating-point results.
+This is a **real-time Weather Application** built using **HTML, CSS, and JavaScript**. It fetches weather data using an API and displays the **temperature, humidity, wind speed, and weather conditions** for a given location. The app also provides error handling for invalid locations.
 
 ## ✨ Features
-✅ **Basic Arithmetic Operations** – Addition, Subtraction, Multiplication, and Division  
-✅ **Fraction Support** – Converts decimal results to fractions when needed  
-✅ **Backspace Button** – Allows correction of input mistakes  
-✅ **Clear Function** – Resets the calculator screen  
-✅ **Stylish UI** – Custom colors and fonts for better usability  
-
-## Visit the site at
-https://github.com/kanushkajoshi/Calculator.git
+✅ **Search by City** – Get real-time weather updates for any location.  
+✅ **Temperature Display** – Shows temperature in Celsius.  
+✅ **Humidity & Wind Speed** – Displays additional weather details.  
+✅ **Error Handling** – Alerts users when an invalid location is entered.  
+✅ **Stylish UI** – Clean and modern interface using CSS.  
 
 ## 🛠️ Technologies Used
-- **Python 3**  
-- **Tkinter (GUI Framework)**  
-- **Fractions Module** (for precise fraction calculations)  
+- **HTML5** – Structure of the application.  
+- **CSS3** – Styling for a modern and responsive design.  
+- **JavaScript (ES6)** – Logic to fetch and display weather data.  
+- **Weather API** – Fetches real-time weather information.  
 
 ## 📜 Installation & Usage
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/python-gui-calculator.git
-
-
-
+git clone https://github.com/yourusername/weather-app.git
